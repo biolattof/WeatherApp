@@ -14,3 +14,10 @@ My approach to designing views prioritized simplicity while meeting the function
 
 Location Manager:
 The Location Manager component is responsible for managing location permissions and retrieving the user's coordinates.
+
+![image](https://github.com/biolattof/WeatherApp/assets/44274331/df185c67-8ad7-4f5e-82d6-ba316701f312)
+
+![image](https://github.com/biolattof/WeatherApp/assets/44274331/068e738d-eabb-40d1-860a-ee8faf064ece)
+
+![image](https://github.com/biolattof/WeatherApp/assets/44274331/a455ffb1-f207-4648-8a98-9a606d6fe3c3)
+
